@@ -1,5 +1,14 @@
+# Group ID: 24-25J-131
+
 # Smart-Vote
-# Project Group - 24-25J-131
+The democratic functioning of societies is based upon the integrity of election systems. The public's confidence 
+in election results has been weakened by the vulnerability of traditional voting methods, both paper-based and 
+computerized, to different types of fraud, manipulation, and cyberattacks. The emergence of blockchain 
+technology presents a viable resolution to these issues by offering an electoral framework that is transparent, 
+safe, and decentralized. 
+The main area of inquiry is how blockchain technology might be applied to create safe voting procedures that 
+guarantee the election process's secrecy, integrity, and openness. This entails taking care of a number of 
+important issues, including user accessibility, scalability, security standards, and system architecture. 
 
 ## Team Members
 
