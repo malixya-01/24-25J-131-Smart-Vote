@@ -1,0 +1,5 @@
+# Ignore the wallet directory
+wallet/
+
+# Ignore node_modules directory
+node_modules/
