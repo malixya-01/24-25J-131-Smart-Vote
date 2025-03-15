@@ -54,7 +54,7 @@ The Smart-Vote system consists of four key functionalities, each handled by a te
 - **Frontend:** //////////
 - **Backend:** ////////
 - **Database:** //////
-- **Authentication:** Biometric Verification (Fingerprint, Facial Recognition, Voice Recognition)
+- **Authentication:** Biometric Verification (Facial Recognition, Voice Recognition)
 - **Predictive Analytics:** Social Media Sentiment Analysis, Historical Data Analysis
 
 
