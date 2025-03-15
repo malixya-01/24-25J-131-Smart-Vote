@@ -1,18 +1,28 @@
 # Group ID: 24-25J-131
 
-# Smart-Vote
+# Smart-Vote: Blockchain-Based Secure Voting System
 
-Smart-Vote is a Blockchain-based Secure Voting System. A secure and transparent voting system is a fundamental necessity in any democratic process to ensure the integrity and credibility of elections. The integration of blockchain technology with advanced biometric verification mechanisms has emerged as a revolutionary approach to address the security challenges and inefficiencies of traditional voting systems. Blockchain, known for its decentralized, immutable, and transparent nature, provides an optimal solution for secure data storage and real-time monitoring, thereby mitigating risks such as voter fraud, tampering, and data manipulation.
+Smart-Vote is a secure and transparent blockchain-based voting system designed to enhance election integrity. It integrates **biometric verification (fingerprint & facial recognition)** with **blockchain's decentralized and immutable nature** to prevent voter fraud, tampering, and data manipulation.
 
-In conventional voting systems, issues such as voter impersonation, ballot manipulation, and delayed result reporting have posed significant threats to election integrity. Moreover, the lack of accessibility features for disabled individuals and limited surveillance mechanisms further hinder the fairness and transparency of the electoral process. Thus, the need for an innovative and robust voting system is of paramount importance.
+## 🔹 Key Features:
+- ✅ **Secure Voter Authentication** – Machine learning-powered biometric verification ensures only eligible voters participate.
+- ✅ **Immutable & Transparent Storage** – Votes and biometric data are securely stored on the blockchain.
+- ✅ **Real-Time Surveillance** – CNN & LSTM detect threats at polling stations, ensuring election security.
+- ✅ **Live Election Insights** – Instant voter turnout, candidate standings, and demographic analytics.
+- ✅ **Predictive Analytics** – Forecasts election outcomes using historical data & social media sentiment analysis.
+- ✅ **Accessible & Inclusive** – Multi-language support and special features for individuals with disabilities.
+- ✅ **Admin Dashboard** – Manage candidates, generate reports, and visualize voting patterns.
 
-The proposed blockchain-based secure voting system leverages cutting-edge technologies such as machine learning for biometric verification, real-time surveillance, and predictive analytics to enhance election transparency and voter participation. The system ensures that only eligible voters can cast their votes through secure biometric data collection and verification processes, including fingerprint and facial recognition. The biometric data is securely stored on the blockchain, ensuring immutability and privacy protection.
+Smart-Vote fosters **trust, transparency, and inclusivity** by leveraging **blockchain, AI, and predictive analytics**, ensuring a **fair and secure electoral process**. 🚀🔒
 
-Furthermore, the system features an intuitive and accessible user interface with multi-language support and specialized functionalities for individuals with disabilities. Real-time surveillance using Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) algorithms is integrated to detect potential threats at polling stations and provide instant alerts to authorities. Additionally, the system enables real-time reporting of voter turnout, candidate standings, and demographic analytics, ensuring transparency and accountability throughout the voting process.
+## Team Members
 
-The predictive analytics component leverages historical data and social media sentiment analysis to forecast election outcomes and voter behavior, aiding administrators and policymakers in making informed decisions. The platform also offers an admin dashboard for managing candidates, generating custom reports, and visualizing voting patterns.
-
-This blockchain-based secure voting system not only addresses the current inefficiencies and vulnerabilities in traditional voting methods but also fosters trust, transparency, and inclusivity in the democratic process. By integrating advanced technologies, the system empowers voters and administrators alike, ensuring a fair and secure electoral environment.
+| Name                        | Student ID  | University Email                | Personal Email                      |
+|-----------------------------|-------------|----------------------------------|--------------------------------------|
+| Abeykoon A.M.P.N           | IT21263262  | [it21263262@my.sliit.lk](mailto:it21263262@my.sliit.lk) | [piyumiabeykoon1619@gmail.com](mailto:piyumiabeykoon1619@gmail.com) |
+| Dilshan N.M                 | IT21196324  | [it21196324@my.sliit.lk](mailto:it21196324@my.sliit.lk) | [maleeshahirug@gmail.com](mailto:maleeshahirug@gmail.com) |
+| Dilshan K.H.T               | IT21259098  | [it21259098@my.sliit.lk](mailto:it21259098@my.sliit.lk) | [tharushad2001@gmail.com](mailto:tharushad2001@gmail.com) |
+| Saranasuriya N.V            | IT21310478  | [it21310478@my.sliit.lk](mailto:it21310478@my.sliit.lk) | [nethumvishwadinu@gmail.com](mailto:nethumvishwadinu@gmail.com) |
 
 ## Project Functionalities and Responsibilities
 
@@ -37,15 +47,6 @@ The Smart-Vote system consists of four key functionalities, each handled by a te
    **Unique Feature:** Predictive Analytics (Historical Data and Social Media Sentiment)  
    **Handled by:** Saranasuriya N.V  
    This module analyzes election results using historical voting data and social media sentiment analysis. Predictive analytics help forecast election outcomes and provide valuable insights for policymakers.
-
-## Team Members
-
-| Name                        | Student ID  | University Email                | Personal Email                      |
-|-----------------------------|-------------|----------------------------------|--------------------------------------|
-| Abeykoon A.M.P.N           | IT21263262  | [it21263262@my.sliit.lk](mailto:it21263262@my.sliit.lk) | [piyumiabeykoon1619@gmail.com](mailto:piyumiabeykoon1619@gmail.com) |
-| Dilshan N.M                 | IT21196324  | [it21196324@my.sliit.lk](mailto:it21196324@my.sliit.lk) | [maleeshahirug@gmail.com](mailto:maleeshahirug@gmail.com) |
-| Dilshan K.H.T               | IT21259098  | [it21259098@my.sliit.lk](mailto:it21259098@my.sliit.lk) | [tharushad2001@gmail.com](mailto:tharushad2001@gmail.com) |
-| Saranasuriya N.V            | IT21310478  | [it21310478@my.sliit.lk](mailto:it21310478@my.sliit.lk) | [nethumvishwadinu@gmail.com](mailto:nethumvishwadinu@gmail.com) |
 
 ## Technologies Used
 - **Blockchain:** Hyperledger Fabric
