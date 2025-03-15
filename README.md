@@ -47,37 +47,13 @@ The Smart-Vote system consists of four key functionalities, each handled by a te
 | Dilshan K.H.T               | IT21259098  | [it21259098@my.sliit.lk](mailto:it21259098@my.sliit.lk) | [tharushad2001@gmail.com](mailto:tharushad2001@gmail.com) |
 | Saranasuriya N.V            | IT21310478  | [it21310478@my.sliit.lk](mailto:it21310478@my.sliit.lk) | [nethumvishwadinu@gmail.com](mailto:nethumvishwadinu@gmail.com) |
 
-## How to Set Up and Run the Project
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-repo/smart-vote.git
-   cd smart-vote
-   ```
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-3. **Start the application:**
-   ```sh
-   npm start
-   ```
-4. **Smart contract deployment:**
-   ```sh
-   truffle migrate --network development
-   ```
-5. **Run the blockchain network:**
-   ```sh
-   ganache-cli
-   ```
-
 ## Technologies Used
-- **Blockchain:** Ethereum, Solidity, Smart Contracts
-- **Machine Learning:** CNN, LSTM for fraud detection and predictive analytics
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** Biometric Verification (Fingerprint, Facial Recognition)
+- **Blockchain:** Hyperledger Fabric
+- **Machine Learning:** LSTM for fraud detection and ANN for predictive analytics ////////
+- **Frontend:** //////////
+- **Backend:** ////////
+- **Database:** //////
+- **Authentication:** Biometric Verification (Fingerprint, Facial Recognition, Voice Recognition)
 - **Predictive Analytics:** Social Media Sentiment Analysis, Historical Data Analysis
 
 
