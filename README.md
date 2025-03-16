@@ -42,10 +42,10 @@ The **Smart-Vote** system consists of **four key functionalities**, each handled
 **👤 Handled by:** Dilshan N.M  
 📌 Provides an **accessible and user-friendly** voting interface with **multi-language support**. **Smart contracts** ensure **transparency and reliability** throughout the voting process.
 
-### 3️⃣ **Real-Time Vote Counting and Fraud Detection**  
-**⚠️ Unique Feature:** Fraud Detection and Anomaly Reporting  
+### 3️⃣ **Real-Time Vote Counting and Surveillance-Based Threat Detection**  
+**⚠️ Unique Feature:** Surveillance-Based Threat Detection  
 **👤 Handled by:** Dilshan K.H.T  
-📌 Responsible for **real-time vote counting** and **fraud detection** using **anomaly detection algorithms**. Identifies suspicious activities like **duplicate voting & manipulation attempts**, ensuring a **fair electoral process**.
+📌 Responsible for **real-time vote counting** and **Surveillance-Based Threat Detection** using **detection algorithms**. Identifies suspicious activities like **duplicate voting & manipulation attempts**, ensuring a **fair electoral process**.
 
 ### 4️⃣ **Election Result Analysis and Reporting**  
 **📈 Unique Feature:** Predictive Analytics (Historical Data and Social Media Sentiment)  
