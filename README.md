@@ -62,7 +62,7 @@ Download and install **CMake** from the following link:
 
 ### 🛠️ Step 2: Clone the Smart-Vote-ML Repository
 ```sh
- git clone https://github.com/SilverlineIT/Smart-Vote-ML.git
+ git clone https://github.com/malixya-01/24-25J-131-Smart-Vote.git
 ```
 
 ### 🛠️ Step 3: Navigate to the API Folder
