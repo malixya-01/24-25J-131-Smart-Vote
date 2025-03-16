@@ -10,8 +10,8 @@ Smart-Vote is a **secure** and **transparent** blockchain-based voting system de
 - 📹 **Real-Time Surveillance** – 🛡️ CNN & LSTM detect threats at polling stations, ensuring election security.
 - 📊 **Live Election Insights** – 📈 Instant voter turnout, candidate standings, and demographic analytics.
 - 🔮 **Predictive Analytics** – 📉 Forecasts election outcomes using **historical data & social media sentiment analysis**.
-- 🌍 **Accessible & Inclusive** – 🗣️ Multi-language support and special features for individuals with disabilities.
-- 🏛️ **Admin Dashboard** – 🎛️ Manage candidates, generate reports, and visualize voting patterns.
+- 🌍 **Accessible & Inclusive** – 🗣️ Multi-language support, Vote with voice, Voice validation Screan Readers special features for individuals with disabilities.
+- 🏛️ **Admin Dashboard** – 🎛️ Election Creation, Manage candidates, Vorters registration, Voting Counts show generate reports, and visualize voting patterns.
 
 Smart-Vote fosters **trust, transparency, and inclusivity** by leveraging **⛓️ blockchain, 🤖 AI, and 📊 predictive analytics**, ensuring a **fair and secure electoral process**. 🚀🔒
 
